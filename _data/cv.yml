@@ -37,14 +37,14 @@
   type: time_table
   contents:
     - title: Teaching assistant
-      # institution: 
       year: 2022 - present
       description:
-        - title: Osnabrück University
         contents:
-        - Machine Learning for Cognitive Computational Neuroscience (2022-2023)
+        - title: Osnabrück University
+          items: 
+          - Machine Learning for Cognitive Computational Neuroscience (2022-2023)
         - title: Radboud University
-          contents:
+          items:
             - Cognitive Computational Neuroscience (2022)
     - title: Student thesis supervisor 
       institution: Osnabrück University
