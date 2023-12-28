@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. PhD student. Kietzmann Lab (Machine Learning group). 
+subtitle: PhD student. Kietzmann Lab (Machine Learning group). 
 
 profile:
   align: right
