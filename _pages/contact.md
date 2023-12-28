@@ -2,7 +2,7 @@
 layout: page
 permalink: /contact/
 title: contact
-description: Contact me
+description: 
 nav: true
 nav_order: 6
 ---
