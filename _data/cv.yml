@@ -39,12 +39,11 @@
     - title: Teaching assistant
       year: 2022 - present
       description:
-        contents:
         - title: Osnabrück University
-          items: 
+          contents: 
           - Machine Learning for Cognitive Computational Neuroscience (2022-2023)
         - title: Radboud University
-          items:
+          contents:
             - Cognitive Computational Neuroscience (2022)
     - title: Student thesis supervisor 
       institution: Osnabrück University
@@ -59,12 +58,12 @@
        - Member of the Degree Programme Committee of the Artificial Intelligence programme
 
     - title: Editor-in-Chief and Board Member
-    institution: De Focus
-    year: 2019 - 2021
-    description: 
-    - Student platform for science communication and outreach. 
-    - "Activities: organisation, communication, editorial work,
-    hosting writing workshops, IT support"
+      institution: De Focus
+      year: 2019 - 2021
+      description: 
+        - Student platform for science communication and outreach. 
+        - "Activities: organisation, communication, editorial work,
+        hosting writing workshops, IT support"
 
     # - title: Professor of Theoretical Physics
     #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
