@@ -2,31 +2,36 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Victoria Laura Bosch
     - name: Date of Birth
-      value: 14th March 1879
+      value: 9th of December 1995
     - name: Languages
-      value: English, German
+      value: Dutch (native), English (C2), German (B1), French (B1)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Osnabrück, Osnabrück, Germany
+      year: 2022-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Supervised by Prof. Dr. Tim C Kietzmann
+        - Funded by ERC project "It's about TIME"
+
+    - title: Master's Degree in Cognitive Computing (Artificial Intelligence)
+      institution: Radboud University, Nijmegen, The Netherlands
+      year: 2020 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Cum laude
+        - "Thesis: 'Topographic Neural Networks show neural recycling of labile units during reading acquisition' "
+        
+    - title: Bachelor's Degree in Liberal Arts and Sciences
+      institution: Utrecht University, Utrecht, The Netherlands
+      year: 2016 - 2020
+      description:
+        - Major in Artificial Intelligence
+        - Minor in Philosophy
+        - "Thesis: 'A Bayesian perspective on the interaction between numerical and temporal perception' "
 
 - title: Experience
   type: time_table
