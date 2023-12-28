@@ -16,7 +16,4 @@ children:
     - title: divider
     - title: contact
     permalink: /contact/
-    
-    #- title: blog
-     # permalink: /blog/
----
+--- 
