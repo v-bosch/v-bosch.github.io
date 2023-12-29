@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications in reversed chronological order. See the complete overview in [cv](/cv/).
+description: Publications in reversed chronological order. See the complete overview in [cv](cv.md).
 nav: true
 nav_order: 2
 ---

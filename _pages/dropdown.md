@@ -1,7 +1,7 @@
 ---
 layout: page
 title: menu
-nav: true
+nav: false # not useful now
 nav_order: 8
 dropdown: true
 children:

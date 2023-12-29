@@ -11,8 +11,7 @@ profile:
   more_info: >
     <p>Wachsbleiche 27</p>
     <p>49090 Osnabrück</p>
-    <p> Room 50/108</p>
-    <p>Tel. +49 541 969-3387</p>
+    <p>Room 50/108</p>
     
 
 news: true  # includes a list of news items
