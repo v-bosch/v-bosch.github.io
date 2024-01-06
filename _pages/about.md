@@ -27,3 +27,5 @@ I am a PhD student supervised by Prof. Dr. Tim C Kietzmann in the Machine Learni
 I work in the intersection of neuroscience and artificial intelligence, i.e., [neuroconnectionism](https://www.nature.com/articles/s41583-023-00705-w). My work focuses on neural decoding and the development of new neural network architectures that model vision. I am generally interested in (neuro)philosophy, machine learning and all other techniques we can use to understand the human condition. 
 
   Previously, I completed my Master's degree in Cognitive Computing (Artificial Intelligence) at Radboud University (Donders Institute, Nijmegen). 
+
+  Don't hesitate to shoot me an [email](mailto:vbosch@uos.de) or connect with me on [twitter](https://twitter.com/__init_self)!
