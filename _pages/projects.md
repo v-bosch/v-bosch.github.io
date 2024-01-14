@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: TBD
-nav: false
+nav: ture
 nav_order: 3
 display_categories: #[work, fun]
 horizontal: false
