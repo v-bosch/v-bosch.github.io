@@ -1,10 +1,9 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Victoria Laura Bosch
-    - name: Languages
-      value: Dutch (native), English (C2), German (B1), French (B1)
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Victoria Laura Bosch
+
 
 - title: Education
   type: time_table
@@ -31,26 +30,30 @@
         - Minor in Philosophy
         - "Thesis: 'A Bayesian perspective on the interaction between numerical and temporal perception' "
 
-- title: Experience
+- title: Teaching
   type: time_table
   contents:
     - title: Teaching assistant
       year: 2022 - present
       description:
-        - title: University of Osnabrück 
+        - title: Machine Learning for Cognitive Computational Neuroscience (2022-2023)
           contents: 
-          - Machine Learning for Cognitive Computational Neuroscience (2022-2023)
-        - title: Radboud University
+          - University of Osnabrück 
+        - title: Cognitive Computational Neuroscience (2022) 
           contents:
-            - Cognitive Computational Neuroscience (2022)
+            - Radboud University
     - title: Thesis supervisor 
       # institution: Osnabrück University
       year: 2023 - present
       description:
         - title: University of Osnabrück 
           contents: 
-          - Supervision of bachelor and master theses in the field of cognitive computational neuroscience
+          - Supervision of bachelor and master theses on the topics of cognitive computational neuroscience
 
+
+- title: Experience
+  type: time_table
+  contents:
     - title: Student representative in the Degree Programme Committee
       institution: Radboud University
       year: 2021 - 2022
