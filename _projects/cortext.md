@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Cortext - brain-to-text decoder
+title: CorText
 description: 
 img: assets/img/cortext_thumbnail.png
 importance: 1
@@ -9,7 +9,6 @@ category: work
 
 authors:
   - name: Victoria Bosch
-    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
     affiliations:
       name: University of Osnabrück
   # - name: Dirk Gütlin
@@ -34,6 +33,6 @@ toc:
 ## Background
 
 CorText: large language models for cross-modal transformations from visually evoked brain responses to text captions. 
-Here you can find the PDF of the short paper presented at CCN 2024. [pdf](../assets/pdf/Cortext_Bosch_CCN2024.pdf)
+Here you can find the PDF of the short paper presented at CCN 2024. [pdf](/assets/pdf/Cortext_Bosch_CCN2024.pdf)
 ***
 
