@@ -5,19 +5,14 @@ description:
 img: assets/img/cortext_thumbnail.png
 importance: 1
 category: work
+visible: false
 #related_publications: einstein1956investigations, einstein1950meaning
 
 authors:
   - name: Victoria Bosch
     affiliations:
       name: University of Osnabrück
-  # - name: Dirk Gütlin
-  #   affiliations:
-  #     name: IAS, Princeton
-  # - name: Adrien Doerig
-  #   url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
-  #   affiliations:
-  #     name: University of Osnabrück
+  
 
 
 toc:
