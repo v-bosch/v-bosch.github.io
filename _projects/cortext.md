@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: CorText
-description: 
+description: Large language models for cross-modal transformations from visually evoked brain responses to text captions
 img: assets/img/cortext_thumbnail.png
 importance: 1
 category: work
@@ -11,8 +11,26 @@ visible: false
 authors:
   - name: Victoria Bosch
     affiliations:
-      name: University of Osnabrück
-  
+      name: Osnabrück University
+  - name: Dirk Gütlin
+    affiliations:
+      name: Freie Universität Berlin
+  - name: Adrien Doerig
+    affiliations:
+      name: Osnabrück University
+  - name: Daniel Anthes
+    affiliations:
+      name: Osnabrück University
+  - name: Sushrut Thorat
+    affiliations:
+      name: Osnabrück University
+  - name: Peter König
+    affiliations:
+      name: Osnabrück University
+  - name: Tim C Kietzmann
+    affiliations:
+      name: Osnabrück University
+      email: tim.kietzmann@uos.de
 
 
 toc:
@@ -25,9 +43,5 @@ toc:
 
 ---
 
-## Background
-
-CorText: large language models for cross-modal transformations from visually evoked brain responses to text captions. 
-Here you can find the PDF of the short paper presented at CCN 2024. [pdf](/assets/pdf/Cortext_Bosch_CCN2024.pdf)
-***
+Here you can find the PDF of the short paper presented at CCN 2024: [pdf](/assets/pdf/Cortext_Bosch_CCN2024.pdf)
 
