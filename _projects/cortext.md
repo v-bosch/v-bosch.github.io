@@ -33,13 +33,13 @@ authors:
       email: tim.kietzmann@uos.de
 
 
-toc:
-  - name: Background
-  - name: Architecture
-  - name: Decoding
-  - name: Interpreting Attention
-  - name: Conclusion
-  - name: Citations
+# toc:
+#   - name: Background
+#   - name: Architecture
+#   - name: Decoding
+#   - name: Interpreting Attention
+#   - name: Conclusion
+#   - name: Citations
 
 ---
 
