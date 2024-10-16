@@ -68,7 +68,7 @@
         - "Activities: organisation, communication, editorial work,
         hosting writing workshops, IT support"
 
-- title: Other Interests
-  type: list
-  contents:
-    - Literature and poetry, painting, chess
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - Literature and poetry, painting, chess
