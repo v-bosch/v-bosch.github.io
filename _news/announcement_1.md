@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be presenting a poster about my on [CorText](../assets/pdf/Cortext_Bosch_CCN2024.pdf) at CCN this year!
+I'll be presenting a poster about my work on [CorText](../assets/pdf/Cortext_Bosch_CCN2024.pdf) at CCN this year!
