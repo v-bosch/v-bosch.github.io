@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: CorText
-description: Large language models for cross-modal transformations from visually evoked brain responses to text captions
+description: Large language models for cross-modal transformations from visually evoked brain responses to language
 img: assets/img/cortext_thumbnail.png
 importance: 1
 category: work
@@ -42,5 +42,5 @@ visible: false
 #   - name: Citations
 
 ---
-
+Here you can find the PDF of the short paper and poster presented at CCN 2025: [pdf](/assets/pdf/CorText_QA_CCN2025.pdf)[poster](/assets/img/CCN2025_CorText_poster.png)
 Here you can find the PDF of the short paper presented at CCN 2024: [pdf](/assets/pdf/Cortext_Bosch_CCN2024.pdf)
