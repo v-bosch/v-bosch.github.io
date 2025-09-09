@@ -42,5 +42,5 @@ visible: false
 #   - name: Citations
 
 ---
-Here you can find the PDF of the short paper and poster presented at CCN 2025: [pdf](/assets/pdf/CorText_QA_CCN2025.pdf)[poster](/assets/img/CCN2025_CorText_poster.png)
+Here you can find the PDF of the short paper and poster presented at CCN 2025: [pdf](/assets/pdf/CorText_QA_CCN2025.pdf)
 Here you can find the PDF of the short paper presented at CCN 2024: [pdf](/assets/pdf/Cortext_Bosch_CCN2024.pdf)
