@@ -64,7 +64,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-
+cv_pdf: Bosch_academic_CV.pdf
 github_username: v-bosch # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: __init_self # your X handle
