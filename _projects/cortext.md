@@ -44,7 +44,10 @@ and can answer more detailed questions better than controls, while having access
 
 <div align="center">
 <img src="/assets/img/cortext_architecture.png" alt="CorText Architecture" style="width: 600px; max-width: 100%; height: auto;">
+
 </div>
+
+
 
 
 #### Further resources:
