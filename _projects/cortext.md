@@ -45,8 +45,7 @@ and can answer more detailed questions better than controls, while having access
 ![CorText Architecture](/assets/img/cortext_architecture.png)
 
 
-
-####Further resources:
+#### Further resources:
 
 Here you can find the PDF of the short paper and poster presented at CCN 2025: [pdf](/assets/pdf/CorText_QA_CCN2025.pdf)
 
