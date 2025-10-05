@@ -46,8 +46,9 @@ and can answer more detailed questions better than controls, while having access
 <img src="/assets/img/cortext_architecture.png" alt="CorText Architecture" style="width: 600px; max-width: 100%; height: auto;">
 </div>
 
+
 #### Further resources:
 
-Here you can find the PDF of the short paper and poster presented at CCN 2025: [pdf](/assets/pdf/CorText_QA_CCN2025.pdf)
+PDF of the short paper and poster presented at CCN 2025: [pdf](/assets/pdf/CorText_QA_CCN2025.pdf)
 
-Here you can find the PDF of the short paper presented at CCN 2024: [pdf](/assets/pdf/Cortext_Bosch_CCN2024.pdf)
+PDF of the short paper presented at CCN 2024: [pdf](/assets/pdf/Cortext_Bosch_CCN2024.pdf)
