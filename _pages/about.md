@@ -28,4 +28,4 @@ I work at the intersection of cognitive neuroscience and machine learning, in th
 
   Previously, I completed my Master's degree in Cognitive Computing (Artificial Intelligence) at Radboud University (Donders Institute, Nijmegen). 
 
-  Don't hesitate to shoot me an [email](mailto:vbosch@uos.de) or connect with me on [twitter](https://twitter.com/__init_self) / [bluesky](https://bsky.app/profile/initself.bsky.social)!
+  Don't hesitate to shoot me an [email](mailto:vbosch@uos.de) or connect with me on [bluesky](https://bsky.app/profile/initself.bsky.social)!
