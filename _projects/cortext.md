@@ -22,11 +22,13 @@ and can answer more detailed questions better than controls, while having access
 <img src="/assets/img/cortext_architecture_chat.png" alt="CorText Architecture" style="width: 600px; max-width: 100%; height: auto;">
 
 </div>  
-  
+
+---
+
+
+      
 
 #### Further resources:
 [PDF of the extended abstact presented at CCN 2026](/assets/pdf/Bosch_et_al_CorText_CCN_2026_Extended_Abstracts.pdf)
-
 [PDF of the short paper and poster presented at CCN 2025](/assets/pdf/CorText_QA_CCN2025.pdf)
-
 [PDF of the short paper presented at CCN 2024.](/assets/pdf/Cortext_Bosch_CCN2024.pdf)
