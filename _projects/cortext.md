@@ -13,7 +13,7 @@ related_publications: cortext_preprint
 #   - name: Background
 #   - name: Architecture
 ---
-## Check out our [Preprint](https://arxiv.org/pdf/2509.23941)!
+### Check out our [Preprint](https://arxiv.org/pdf/2509.23941)!
 ### Abstract
 Large language models (LLMs) have revolutionized human-machine interaction, and have been extended by embedding diverse modalities such as images into a shared language space. Yet, neural decoding has remained constrained by static, non-interactive methods. We introduce CorText, a framework that integrates neural activity directly into the latent space of an LLM, enabling open-ended, natural language interaction with brain data. Trained on fMRI data recorded during viewing of natural scenes, CorText generates accurate image captions
 and can answer more detailed questions better than controls, while having access to neural data only. We showcase that CorText achieves zero-shot generalization beyond semantic categories seen during training. In-silico microstimulation experiments, which enable counterfactual prompts on brain activity, reveal a consistent, and graded mapping between brain-state and language output. These advances mark a shift from passive decoding toward generative, flexible interfaces between brain activity and language.  
@@ -28,7 +28,11 @@ and can answer more detailed questions better than controls, while having access
 
       
 
-#### Further resources:
+#### Resources:
+[Preprint](https://arxiv.org/pdf/2509.23941)
+
+[Poster presented at CCN 2026](/assets/pdf/CorTextCCN2026.pdf) - CorText applied to macaque intracranial recordings
+
 [PDF of the extended abstact presented at CCN 2026](/assets/pdf/Bosch_et_al_CorText_CCN_2026_Extended_Abstracts.pdf)
 
 [PDF of the short paper and poster presented at CCN 2025](/assets/pdf/CorText_QA_CCN2025.pdf)
