@@ -364,8 +364,8 @@
       <!--<p class="subhead">Each contour is a year. Its thickness and colour follow the density of dated completions through the seasons.</p>-->
       <div class="plot-wrap" id="plotWrap">
         <svg id="plot" viewBox="120 120 460 460" role="img" aria-labelledby="plotTitle plotDesc">
-          <!--<title id="plotTitle">Irregular tree rings representing books read by year</title>-->
-          <!--<desc id="plotDesc">Each ring is one year. Thicker, darker sections show periods with more dated book completions. Small pale marks represent individual books.</desc>-->
+          <title id="plotTitle"></title>
+          <desc id="plotDesc">Each ring is one year. Thicker, darker sections show periods with more dated book completions. Small pale marks represent individual books.</desc>
         </svg>
       </div>
       <div class="error" id="error" hidden></div>
@@ -797,15 +797,21 @@
         button.addEventListener('click', () => applyPalette(button.dataset.palette));
       });
 
+      let dataLoaded = false;
       fetch(DATA_URL)
         .then(response => {
           if (!response.ok) throw new Error(`Could not load the CSV (${response.status}).`);
           return response.text();
         })
-        .then(text => render(parseCSV(text.replace(/^\uFEFF/, ''))))
+        .then(text => {
+          dataLoaded = true;
+          render(parseCSV(text.replace(/^\uFEFF/, '')));
+        })
         .catch(cause => {
           error.hidden = false;
-          error.textContent = 'The data file could not be loaded. Open this folder through a small local web server, then visit index.html. ' + cause.message;
+          error.textContent = (dataLoaded
+            ? 'The page could not be rendered. '
+            : 'The data file could not be loaded. Open this folder through a small local web server, then visit index.html. ') + cause.message;
           document.getElementById('plotWrap').hidden = true;
           detailMain.textContent = 'Data unavailable';
           detailNote.textContent = '';
