@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interactive Glasser Atlas
+title: Glasser HCP-MMP1 Viewer
 description: 
 img: assets/img/glasser.png
 importance: 1
@@ -23,22 +23,23 @@ category: work
   .glasser-embed iframe {
     display: block;
     width: 100%;
-    height: 650px;
+    height: 600px;
     border: 0;
     border-radius: 14px;
     background: #f6f7f9;
   }
 
   @media (max-width: 900px) {
-    .glasser-embed iframe { height: 760px; }
+    .glasser-embed iframe { height: 720px; }
   }
 </style>
 
 <div class="glasser-embed">
   <iframe
     src="{{ '/assets/plotly/glasser_gui.html' | relative_url }}"
-    title="Interactive Glasser cortical atlas"
+    title="Glasser HCP-MMP1 Viewer"
     scrolling="no"
-    loading="lazy">
+    loading="lazy"
+    allowfullscreen>
   </iframe>
 </div>
