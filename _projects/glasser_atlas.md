@@ -40,6 +40,7 @@ category: work
     title="Glasser HCP-MMP1 Viewer"
     scrolling="no"
     loading="lazy"
+    allow="fullscreen"
     allowfullscreen>
   </iframe>
 </div>
