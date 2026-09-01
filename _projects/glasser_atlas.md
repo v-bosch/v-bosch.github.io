@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Glasser HCP-MMP1 Viewer
-description: 
+title: Brain Viewer
+description: Interactive HCP-MMP1 flatmap
 img: assets/img/glasser.png
 importance: 1
 category: work
