@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://v-bosch.github.io/sitemap.xml
+Sitemap: https://init-self.com/sitemap.xml
