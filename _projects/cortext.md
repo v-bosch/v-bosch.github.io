@@ -26,7 +26,7 @@ CorText enables query of visually evoked brain activity using natural language. 
 
 #### [Read the preprint →](https://arxiv.org/pdf/2509.23941)    
 
-  
+---
 
 <!--### Abstract
 Large language models (LLMs) have revolutionized human-machine interaction, and have been extended by embedding diverse modalities such as images into a shared language space. Yet, neural decoding has remained constrained by static, non-interactive methods. We introduce CorText, a framework that integrates neural activity directly into the latent space of an LLM, enabling open-ended, natural language interaction with brain data. Trained on fMRI data recorded during viewing of natural scenes, CorText generates accurate image captions
