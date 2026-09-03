@@ -6,14 +6,10 @@ subtitle: #PhD student. Kietzmann Lab (Machine Learning group).
 
 profile:
   align: right
-  image: pullingplugs.png
+  image: main_pic.png
   image_circular: false # crops the image to make it circular
   more_info: 
-  #>
-  #   <p>Wachsbleiche 27</p>
-  #   <p>49090 Osnabrück</p>
-  #   <p>Room 50/108</p>
-    
+ 
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
