@@ -24,8 +24,9 @@ CorText enables query of visually evoked brain activity using natural language. 
 #### About the project
  CorText is the core project of my PhD research, where I have led the central development, implementation and analysis of the model. This project is supervised by Prof. Dr. Tim C Kietzmann at the University of Osnabrück, in collaboration with Daniel Anthes, Adrien Doerig, Sushrut Thorat, and Peter König.  
 
-#### [Read the preprint →](https://arxiv.org/pdf/2509.23941)  
+#### [Read the preprint →](https://arxiv.org/pdf/2509.23941)    
 
+  
 
 <!--### Abstract
 Large language models (LLMs) have revolutionized human-machine interaction, and have been extended by embedding diverse modalities such as images into a shared language space. Yet, neural decoding has remained constrained by static, non-interactive methods. We introduce CorText, a framework that integrates neural activity directly into the latent space of an LLM, enabling open-ended, natural language interaction with brain data. Trained on fMRI data recorded during viewing of natural scenes, CorText generates accurate image captions
@@ -39,11 +40,10 @@ and can answer more detailed questions better than controls, while having access
 ---
  
 
-#### Resources:
-- Application of CorText to macaque intracranial recordings (CCN 2026 poster). [PDF](/assets/pdf/CorTextCCN2026.pdf)
-- Extended abstact presented at CCN 2026 [PDF](/assets/pdf/Bosch_et_al_CorText_CCN_2026_Extended_Abstracts.pdf)
-- Short paper and poster presented at CCN 2025. [PDF](/assets/pdf/CorText_QA_CCN2025.pdf)
-- Short paper presented at CCN 2024. [PDF](/assets/pdf/Cortext_Bosch_CCN2024.pdf)
+#### Resources and project evolution
+- Extension of CorText to macaque intracranial recordings (CCN 2026 [abstract](/assets/pdf/Bosch_et_al_CorText_CCN_2026_Extended_Abstracts.pdf) and [poster](/assets/pdf/CorTextCCN2026.pdf)
+- Development of Q&A functionality in CorText, direct decoder-only fusion. Short paper and poster presented at CCN 2025. [PDF](/assets/pdf/CorText_QA_CCN2025.pdf)
+- Caption decoding with encoder-decoder architecture, the first short paper presented at CCN 2024. [PDF](/assets/pdf/Cortext_Bosch_CCN2024.pdf)
 
 
 <!--Main preprint. [link](https://arxiv.org/pdf/2509.23941)-->
