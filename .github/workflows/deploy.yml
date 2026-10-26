@@ -33,6 +33,9 @@ jobs:
         valueFile: '_config.yml'
         propertyPath: 'giscus.repo'
         value: ${{ github.repository }}
+    - name: Install ImageMagick
+      run: |
+        apt-get install imagemagick
     - name: Install and Build 🔧
       run: |
         pip3 install --upgrade jupyter
