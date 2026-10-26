@@ -68,6 +68,7 @@ cv_pdf: Bosch_academic_CV.pdf
 github_username: v-bosch # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: __init_self # your X handle
+bluesky_url: initself.bsky.social # your full Bluesky profile URL (https://bsky.app/profile/your-handle)
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: victoria-bosch # your LinkedIn user name
 telegram_username: # your Telegram user name
